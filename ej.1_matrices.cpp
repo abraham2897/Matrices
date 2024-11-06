@@ -1,4 +1,4 @@
-/* APUNTE
+/* APUNTE Holis
 
 Arrays bidimensionales o matrices
 Una matriz es un vector de vectores.
